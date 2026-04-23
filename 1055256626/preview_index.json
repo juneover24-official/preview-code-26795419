@@ -1,632 +1,8 @@
 {
   "qq_number": "26795419",
   "group_number": "1055256626",
-  "updated_at": "2026-04-22T16:19:47.766875",
+  "updated_at": "2026-04-23T15:52:39.168422",
   "skins": [
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常无漂大动脆.bds",
-      "thumb": "布谷の电宅日常无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑无漂小动脆.bds",
-      "thumb": "布谷の迟到啦黑无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫无漂大动闷.bds",
-      "thumb": "布谷の不良小猫无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔有漂小动脆.bds",
-      "thumb": "布谷の草莓小兔有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红无漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-红无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫有漂大动闷.bds",
-      "thumb": "布谷の不良小猫有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰有漂大动脆.bds",
-      "thumb": "布谷の迟到啦灰有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常无漂小动闷.bds",
-      "thumb": "布谷の电宅日常无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕有漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-棕有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王无漂小动闷.bds",
-      "thumb": "布谷の小学生大王无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰有漂小动脆.bds",
-      "thumb": "布谷の迟到啦灰有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕无漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-棕无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红有漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-红有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫无漂大动脆.bds",
-      "thumb": "布谷の不良小猫无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红无漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-红无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕有漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-棕有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对有漂大动脆.bds",
-      "thumb": "布谷の复古派对有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑无漂大动脆.bds",
-      "thumb": "布谷の迟到啦黑无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常有漂大动闷.bds",
-      "thumb": "布谷の电宅日常有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对有漂小动脆.bds",
-      "thumb": "布谷の复古派对有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王有漂小动脆.bds",
-      "thumb": "布谷の小学生大王有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕有漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-棕有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对无漂小动闷.bds",
-      "thumb": "布谷の复古派对无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄无漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-黄无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常有漂小动闷.bds",
-      "thumb": "布谷の电宅日常有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃有漂小动闷.bds",
-      "thumb": "布谷の一点好吃有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔无漂小动闷.bds",
-      "thumb": "布谷の草莓小兔无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑无漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-黑无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑无漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-黑无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰有漂小动闷.bds",
-      "thumb": "布谷の迟到啦灰有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常有漂大动脆.bds",
-      "thumb": "布谷の电宅日常有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko无漂大动闷.bds",
-      "thumb": "布谷のMikko无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫有漂大动脆.bds",
-      "thumb": "布谷の不良小猫有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕无漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-棕无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫无漂小动脆.bds",
-      "thumb": "布谷の不良小猫无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对有漂小动闷.bds",
-      "thumb": "布谷の复古派对有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑有漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-黑有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑无漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-黑无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑有漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-黑有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄有漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-黄有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑有漂大动脆.bds",
-      "thumb": "布谷の迟到啦黑有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对无漂大动脆.bds",
-      "thumb": "布谷の复古派对无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko无漂大动脆.bds",
-      "thumb": "布谷のMikko无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰无漂大动脆.bds",
-      "thumb": "布谷の迟到啦灰无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对有漂大动闷.bds",
-      "thumb": "布谷の复古派对有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑无漂小动闷.bds",
-      "thumb": "布谷の迟到啦黑无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红有漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-红有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃无漂大动闷.bds",
-      "thumb": "布谷の一点好吃无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫无漂小动闷.bds",
-      "thumb": "布谷の不良小猫无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃无漂小动脆.bds",
-      "thumb": "布谷の一点好吃无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰有漂大动闷.bds",
-      "thumb": "布谷の迟到啦灰有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常有漂小动脆.bds",
-      "thumb": "布谷の电宅日常有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫有漂小动脆.bds",
-      "thumb": "布谷の不良小猫有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の不良小猫",
-      "file": "布谷の不良小猫有漂小动闷.bds",
-      "thumb": "布谷の不良小猫有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の不良小猫有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑有漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-黑有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔有漂小动闷.bds",
-      "thumb": "布谷の草莓小兔有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王有漂大动闷.bds",
-      "thumb": "布谷の小学生大王有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko有漂大动脆.bds",
-      "thumb": "布谷のMikko有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对无漂大动闷.bds",
-      "thumb": "布谷の复古派对无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔有漂大动脆.bds",
-      "thumb": "布谷の草莓小兔有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃有漂大动脆.bds",
-      "thumb": "布谷の一点好吃有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko无漂小动闷.bds",
-      "thumb": "布谷のMikko无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄无漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-黄无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常无漂小动脆.bds",
-      "thumb": "布谷の电宅日常无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃无漂大动脆.bds",
-      "thumb": "布谷の一点好吃无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃无漂小动闷.bds",
-      "thumb": "布谷の一点好吃无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王有漂大动脆.bds",
-      "thumb": "布谷の小学生大王有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红无漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-红无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王无漂大动闷.bds",
-      "thumb": "布谷の小学生大王无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko有漂大动闷.bds",
-      "thumb": "布谷のMikko有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko有漂小动闷.bds",
-      "thumb": "布谷のMikko有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko有漂小动脆.bds",
-      "thumb": "布谷のMikko有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑无漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-黑无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の复古派对",
-      "file": "布谷の复古派对无漂小动脆.bds",
-      "thumb": "布谷の复古派对无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の复古派对无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄有漂大动脆.bds",
-      "thumb": "布谷の唐老鸭-黄有漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄有漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王有漂小动闷.bds",
-      "thumb": "布谷の小学生大王有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄有漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-黄有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "布谷のMikko无漂小动脆.bds",
-      "thumb": "布谷のMikko无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷のMikko无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃有漂小动脆.bds",
-      "thumb": "布谷の一点好吃有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰无漂大动闷.bds",
-      "thumb": "布谷の迟到啦灰无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔无漂大动脆.bds",
-      "thumb": "布谷の草莓小兔无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑有漂小动脆.bds",
-      "thumb": "布谷の迟到啦黑有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红无漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-红无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红有漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-红有漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红有漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔有漂大动闷.bds",
-      "thumb": "布谷の草莓小兔有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の一点好吃",
-      "file": "布谷の一点好吃有漂大动闷.bds",
-      "thumb": "布谷の一点好吃有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の一点好吃有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王无漂小动脆.bds",
-      "thumb": "布谷の小学生大王无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰无漂小动脆.bds",
-      "thumb": "布谷の迟到啦灰无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑无漂大动闷.bds",
-      "thumb": "布谷の迟到啦黑无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄无漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-黄无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑有漂大动闷.bds",
-      "thumb": "布谷の迟到啦黑有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の电宅日常",
-      "file": "布谷の电宅日常无漂大动闷.bds",
-      "thumb": "布谷の电宅日常无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の电宅日常无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦黑有漂小动闷.bds",
-      "thumb": "布谷の迟到啦黑有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦黑有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕无漂小动脆.bds",
-      "thumb": "布谷の唐老鸭-棕无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔无漂小动脆.bds",
-      "thumb": "布谷の草莓小兔无漂小动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔无漂小动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄无漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-黄无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-红有漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-红有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-红有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の草莓小兔",
-      "file": "布谷の草莓小兔无漂大动闷.bds",
-      "thumb": "布谷の草莓小兔无漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の草莓小兔无漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の小学生大王",
-      "file": "布谷の小学生大王无漂大动脆.bds",
-      "thumb": "布谷の小学生大王无漂大动脆.bds_py_26_light_thumb.png",
-      "full": "布谷の小学生大王无漂大动脆.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕有漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-棕有漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕有漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-棕无漂小动闷.bds",
-      "thumb": "布谷の唐老鸭-棕无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-棕无漂小动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黄有漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-黄有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黄有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の唐老鸭",
-      "file": "布谷の唐老鸭-黑有漂大动闷.bds",
-      "thumb": "布谷の唐老鸭-黑有漂大动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の唐老鸭-黑有漂大动闷.bds_py_26_light.png"
-    },
-    {
-      "name": "布谷の迟到啦",
-      "file": "布谷の迟到啦灰无漂小动闷.bds",
-      "thumb": "布谷の迟到啦灰无漂小动闷.bds_py_26_light_thumb.png",
-      "full": "布谷の迟到啦灰无漂小动闷.bds_py_26_light.png"
-    },
     {
       "name": "布谷のMikko",
       "file": "布谷のMikko无漂大动闷.bdi",
@@ -1250,6 +626,630 @@
       "file": "布谷の唐老鸭-棕有漂大动闷.bdi",
       "thumb": "布谷の唐老鸭-棕有漂大动闷.bdi_py_26_light_thumb.png",
       "full": "布谷の唐老鸭-棕有漂大动闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常无漂大动脆.bds",
+      "thumb": "布谷の电宅日常无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑无漂小动脆.bds",
+      "thumb": "布谷の迟到啦黑无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫无漂大动闷.bds",
+      "thumb": "布谷の不良小猫无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔有漂小动脆.bds",
+      "thumb": "布谷の草莓小兔有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红无漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-红无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫有漂大动闷.bds",
+      "thumb": "布谷の不良小猫有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰有漂大动脆.bds",
+      "thumb": "布谷の迟到啦灰有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常无漂小动闷.bds",
+      "thumb": "布谷の电宅日常无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕有漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-棕有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王无漂小动闷.bds",
+      "thumb": "布谷の小学生大王无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰有漂小动脆.bds",
+      "thumb": "布谷の迟到啦灰有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕无漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-棕无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红有漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-红有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫无漂大动脆.bds",
+      "thumb": "布谷の不良小猫无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红无漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-红无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕有漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-棕有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对有漂大动脆.bds",
+      "thumb": "布谷の复古派对有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑无漂大动脆.bds",
+      "thumb": "布谷の迟到啦黑无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常有漂大动闷.bds",
+      "thumb": "布谷の电宅日常有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对有漂小动脆.bds",
+      "thumb": "布谷の复古派对有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王有漂小动脆.bds",
+      "thumb": "布谷の小学生大王有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕有漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-棕有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对无漂小动闷.bds",
+      "thumb": "布谷の复古派对无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄无漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-黄无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常有漂小动闷.bds",
+      "thumb": "布谷の电宅日常有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃有漂小动闷.bds",
+      "thumb": "布谷の一点好吃有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔无漂小动闷.bds",
+      "thumb": "布谷の草莓小兔无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑无漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-黑无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑无漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-黑无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰有漂小动闷.bds",
+      "thumb": "布谷の迟到啦灰有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常有漂大动脆.bds",
+      "thumb": "布谷の电宅日常有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko无漂大动闷.bds",
+      "thumb": "布谷のMikko无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫有漂大动脆.bds",
+      "thumb": "布谷の不良小猫有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕无漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-棕无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫无漂小动脆.bds",
+      "thumb": "布谷の不良小猫无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对有漂小动闷.bds",
+      "thumb": "布谷の复古派对有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑有漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-黑有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑无漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-黑无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑有漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-黑有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄有漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-黄有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑有漂大动脆.bds",
+      "thumb": "布谷の迟到啦黑有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对无漂大动脆.bds",
+      "thumb": "布谷の复古派对无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko无漂大动脆.bds",
+      "thumb": "布谷のMikko无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰无漂大动脆.bds",
+      "thumb": "布谷の迟到啦灰无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对有漂大动闷.bds",
+      "thumb": "布谷の复古派对有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑无漂小动闷.bds",
+      "thumb": "布谷の迟到啦黑无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红有漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-红有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃无漂大动闷.bds",
+      "thumb": "布谷の一点好吃无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫无漂小动闷.bds",
+      "thumb": "布谷の不良小猫无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃无漂小动脆.bds",
+      "thumb": "布谷の一点好吃无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰有漂大动闷.bds",
+      "thumb": "布谷の迟到啦灰有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常有漂小动脆.bds",
+      "thumb": "布谷の电宅日常有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫有漂小动脆.bds",
+      "thumb": "布谷の不良小猫有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の不良小猫",
+      "file": "布谷の不良小猫有漂小动闷.bds",
+      "thumb": "布谷の不良小猫有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の不良小猫有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑有漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-黑有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔有漂小动闷.bds",
+      "thumb": "布谷の草莓小兔有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王有漂大动闷.bds",
+      "thumb": "布谷の小学生大王有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko有漂大动脆.bds",
+      "thumb": "布谷のMikko有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对无漂大动闷.bds",
+      "thumb": "布谷の复古派对无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔有漂大动脆.bds",
+      "thumb": "布谷の草莓小兔有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃有漂大动脆.bds",
+      "thumb": "布谷の一点好吃有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko无漂小动闷.bds",
+      "thumb": "布谷のMikko无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄无漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-黄无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常无漂小动脆.bds",
+      "thumb": "布谷の电宅日常无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃无漂大动脆.bds",
+      "thumb": "布谷の一点好吃无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃无漂小动闷.bds",
+      "thumb": "布谷の一点好吃无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王有漂大动脆.bds",
+      "thumb": "布谷の小学生大王有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红无漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-红无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王无漂大动闷.bds",
+      "thumb": "布谷の小学生大王无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko有漂大动闷.bds",
+      "thumb": "布谷のMikko有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko有漂小动闷.bds",
+      "thumb": "布谷のMikko有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko有漂小动脆.bds",
+      "thumb": "布谷のMikko有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑无漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-黑无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の复古派对",
+      "file": "布谷の复古派对无漂小动脆.bds",
+      "thumb": "布谷の复古派对无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の复古派对无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄有漂大动脆.bds",
+      "thumb": "布谷の唐老鸭-黄有漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄有漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王有漂小动闷.bds",
+      "thumb": "布谷の小学生大王有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄有漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-黄有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "布谷のMikko无漂小动脆.bds",
+      "thumb": "布谷のMikko无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷のMikko无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃有漂小动脆.bds",
+      "thumb": "布谷の一点好吃有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰无漂大动闷.bds",
+      "thumb": "布谷の迟到啦灰无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔无漂大动脆.bds",
+      "thumb": "布谷の草莓小兔无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑有漂小动脆.bds",
+      "thumb": "布谷の迟到啦黑有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红无漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-红无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红有漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-红有漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红有漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔有漂大动闷.bds",
+      "thumb": "布谷の草莓小兔有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の一点好吃",
+      "file": "布谷の一点好吃有漂大动闷.bds",
+      "thumb": "布谷の一点好吃有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の一点好吃有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王无漂小动脆.bds",
+      "thumb": "布谷の小学生大王无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰无漂小动脆.bds",
+      "thumb": "布谷の迟到啦灰无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑无漂大动闷.bds",
+      "thumb": "布谷の迟到啦黑无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄无漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-黄无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑有漂大动闷.bds",
+      "thumb": "布谷の迟到啦黑有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の电宅日常",
+      "file": "布谷の电宅日常无漂大动闷.bds",
+      "thumb": "布谷の电宅日常无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の电宅日常无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦黑有漂小动闷.bds",
+      "thumb": "布谷の迟到啦黑有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦黑有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕无漂小动脆.bds",
+      "thumb": "布谷の唐老鸭-棕无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔无漂小动脆.bds",
+      "thumb": "布谷の草莓小兔无漂小动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔无漂小动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄无漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-黄无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-红有漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-红有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-红有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の草莓小兔",
+      "file": "布谷の草莓小兔无漂大动闷.bds",
+      "thumb": "布谷の草莓小兔无漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の草莓小兔无漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の小学生大王",
+      "file": "布谷の小学生大王无漂大动脆.bds",
+      "thumb": "布谷の小学生大王无漂大动脆.bds_py_26_light_thumb.png",
+      "full": "布谷の小学生大王无漂大动脆.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕有漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-棕有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕有漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-棕无漂小动闷.bds",
+      "thumb": "布谷の唐老鸭-棕无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-棕无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黄有漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-黄有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黄有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の唐老鸭",
+      "file": "布谷の唐老鸭-黑有漂大动闷.bds",
+      "thumb": "布谷の唐老鸭-黑有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の唐老鸭-黑有漂大动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の迟到啦",
+      "file": "布谷の迟到啦灰无漂小动闷.bds",
+      "thumb": "布谷の迟到啦灰无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の迟到啦灰无漂小动闷.bds_py_26_light.png"
     }
   ]
 }
