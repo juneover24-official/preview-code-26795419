@@ -1,7 +1,7 @@
 {
   "qq_number": "26795419",
   "group_number": "1055256626",
-  "updated_at": "2026-04-23T15:52:39.168422",
+  "updated_at": "2026-06-06T16:21:07+00:00",
   "skins": [
     {
       "name": "布谷のMikko",
@@ -1250,6 +1250,12 @@
       "file": "布谷の迟到啦灰无漂小动闷.bds",
       "thumb": "布谷の迟到啦灰无漂小动闷.bds_py_26_light_thumb.png",
       "full": "布谷の迟到啦灰无漂小动闷.bds_py_26_light.png"
+    },
+    {
+      "name": "布谷の懒羊羊小情侣「无漂小动」闷",
+      "file": "布谷の懒羊羊小情侣无漂小动闷.bds",
+      "thumb": "布谷の懒羊羊小情侣无漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の懒羊羊小情侣无漂小动闷.bds_py_26_light_thumb.png"
     }
   ]
 }
