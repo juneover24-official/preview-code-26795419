@@ -1,7 +1,7 @@
 {
   "qq_number": "26795419",
   "group_number": "1055256626",
-  "updated_at": "2026-07-16T19:58:29+00:00",
+  "updated_at": "2026-07-16T19:58:45+00:00",
   "skins": [
     {
       "name": "布谷のMikko",
@@ -1394,6 +1394,12 @@
       "file": "布谷の睡衣小狐狸有漂小动闷.bds",
       "thumb": "布谷の睡衣小狐狸有漂小动闷.bds_py_26_light_thumb.png",
       "full": "布谷の睡衣小狐狸有漂小动闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "布谷の睡衣小狐狸「有漂大动」闷",
+      "file": "布谷の睡衣小狐狸有漂大动闷.bds",
+      "thumb": "布谷の睡衣小狐狸有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の睡衣小狐狸有漂大动闷.bds_py_26_light_thumb.png"
     }
   ]
 }
