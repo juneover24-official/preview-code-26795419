@@ -1,7 +1,7 @@
 {
   "qq_number": "26795419",
   "group_number": "1055256626",
-  "updated_at": "2026-10-05T23:28:53+00:00",
+  "updated_at": "2026-10-05T23:29:54+00:00",
   "skins": [
     {
       "name": "布谷のMikko",
@@ -1446,6 +1446,13 @@
       "thumb": "布谷の午后有漂小动脆.bds_py_26_light_thumb.png",
       "full": "布谷の午后有漂小动脆.bds_py_26_light_thumb.png",
       "file_id": "ec580d476bb603f711abc5e344ecba7f"
+    },
+    {
+      "name": "布谷の午后「有漂小动」闷",
+      "file": "布谷の午后有漂小动闷.bds",
+      "thumb": "布谷の午后有漂小动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の午后有漂小动闷.bds_py_26_light_thumb.png",
+      "file_id": "8bc0aa879e9043e0f858fee5bfd0a6e2"
     }
   ]
 }
