@@ -1,7 +1,7 @@
 {
   "qq_number": "26795419",
   "group_number": "1055256626",
-  "updated_at": "2026-10-05T23:50:09+00:00",
+  "updated_at": "2026-10-06T00:21:23+00:00",
   "skins": [
     {
       "name": "布谷のMikko",
@@ -1474,6 +1474,13 @@
       "thumb": "布谷の睡衣小狐狸无漂大动闷.bds_py_26_light_thumb.png",
       "full": "布谷の睡衣小狐狸无漂大动闷.bds_py_26_light_thumb.png",
       "file_id": "c510ab29ff4c4b6a234a90d8d848e4dc"
+    },
+    {
+      "name": "布谷の小猫教主驾到「有漂大动」闷",
+      "file": "布谷の小猫教主驾到有漂大动闷.bds",
+      "thumb": "布谷の小猫教主驾到有漂大动闷.bds_py_26_light_thumb.png",
+      "full": "布谷の小猫教主驾到有漂大动闷.bds_py_26_light_thumb.png",
+      "file_id": "734b3788b240f1070a7d4f084ba99199"
     }
   ]
 }
